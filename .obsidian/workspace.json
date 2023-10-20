@@ -1,0 +1,277 @@
+{
+  "main": {
+    "id": "576d1d9c70545fc1",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ce744403180c7bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5a6aaa5ef31475b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "스키마(Scheme).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f989072070362d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e0931c456b339544",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SELECT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e7f9fb1c89225f40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL Join.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa726f981f568482",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FROM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1ad3ff0908fcc6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WHERE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c65a1438f69c6d1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "INTERSECT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "08517b2b7c732791",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "과제.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c6940a60fed24647",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "데이터 정의어(DDL).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a68bc6ce6e6c80e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "데이터 제어어(DCL).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "70b0e9340845460f",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc380bb31f7ddd23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94a7a7120bfd16db",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          },
+          {
+            "id": "799a5dbf62e8d2fc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "39d271dc37ae8ce8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f3bc7ebddfde526b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ceb161a1a7a1fee4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a79827a9ee9c5668",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "과제.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f8d488f410f0d0d1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "과제.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a17646586e557905",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f9cc61bca889299d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "과제.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "08517b2b7c732791",
+  "lastOpenFiles": [
+    "집합 연산.md",
+    "WHERE.md",
+    "FROM.md",
+    "UNION.md",
+    "INTERSECT.md",
+    "과제.md",
+    "SQL Join.md",
+    "SELECT.md",
+    "SQL.md",
+    "데이터 조작어(DML).md",
+    "데이터 정의어(DDL).md",
+    "객체.md",
+    "트랜잭션 제어어(TCL).md",
+    "데이터 제어어(DCL).md",
+    "스키마(Scheme).md",
+    "데이터 독립성(data Independency).md"
+  ]
+}
